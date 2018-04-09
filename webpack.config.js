@@ -11,6 +11,7 @@ const config = {
     filename: '[name].bundle.js',
     publicPath: '/'
   },
+  mode: "development",
   module: {
     rules: [
       {
